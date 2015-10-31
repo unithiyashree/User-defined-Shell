@@ -10,6 +10,11 @@ The goal of the project is to create a user defined interactive shell program th
 4. Echo
 5. Psinfo <option>
 
+### How to run ?
+<code> gcc shell.c </code>
+<code> ./shell.c </code>
+The user defined command line appears and the user-defined commands can be executed from then .
+
 ### Command Syntax
 1. cd <option>
 2. pwd
