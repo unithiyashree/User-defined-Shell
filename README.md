@@ -11,8 +11,8 @@ The goal of the project is to create a user defined interactive shell program th
 5. Psinfo <option>
 
 ### How to run ?
-<code> gcc shell.c </code>
-<code> ./shell.c </code>
+Run <code> gcc shell.c </code>
+Then run <code> ./shell.c </code>
 The user defined command line appears and the user-defined commands can be executed from then .
 
 ### Command Syntax
